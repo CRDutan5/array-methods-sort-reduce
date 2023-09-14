@@ -1,0 +1,82 @@
+[
+    {
+        "product_name": "iPhone 13 Pro",
+        "company": "Apple Inc.",
+        "category": "Electronics",
+        "sales_year": 2022,
+        "units_sold": 8542360,
+        "total_sales": 8542360000
+    },
+    {
+        "product_name": "Galaxy S22",
+        "company": "Samsung Electronics Co., Ltd.",
+        "category": "Electronics",
+        "sales_year": 2022,
+        "units_sold": 6217845,
+        "total_sales": 6217845000
+    },
+    {
+        "product_name": "Toyota Camry",
+        "company": "Toyota Motor Corporation",
+        "category": "Automotive",
+        "sales_year": 2022,
+        "units_sold": 1198743,
+        "total_sales": 5993715000
+    },
+    {
+        "product_name": "Nike Air Max",
+        "company": "Nike, Inc.",
+        "category": "Footwear",
+        "sales_year": 2022,
+        "units_sold": 4025431,
+        "total_sales": 4025431000
+    },
+    {
+        "product_name": "Amazon Echo",
+        "company": "Amazon.com, Inc.",
+        "category": "Electronics",
+        "sales_year": 2022,
+        "units_sold": 2568945,
+        "total_sales": 2568945000
+    },
+    {
+        "product_name": "Coca-Cola",
+        "company": "The Coca-Cola Company",
+        "category": "Beverages",
+        "sales_year": 2022,
+        "units_sold": 1567890,
+        "total_sales": 1567890000
+    },
+    {
+        "product_name": "McDonald's Big Mac",
+        "company": "McDonald's Corporation",
+        "category": "Fast Food",
+        "sales_year": 2022,
+        "units_sold": 1004321,
+        "total_sales": 1004321000
+    },
+    {
+        "product_name": "Microsoft Office 365",
+        "company": "Microsoft Corporation",
+        "category": "Software",
+        "sales_year": 2022,
+        "units_sold": 1835627,
+        "total_sales": 1835627000
+    },
+    {
+        "product_name": "Procter & Gamble's Tide Detergent",
+        "company": "Procter & Gamble Co.",
+        "category": "Household",
+        "sales_year": 2022,
+        "units_sold": 709831,
+        "total_sales": 709831000
+    },
+    {
+        "product_name": "Walmart's Great Value Toilet Paper",
+        "company": "Walmart Inc.",
+        "category": "Household",
+        "sales_year": 2022,
+        "units_sold": 954712,
+        "total_sales": 954712000
+    }
+]

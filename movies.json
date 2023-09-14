@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "director": "Bong Joon-ho",
+        "genre": ["Drama", "Thriller"],
+        "box_office": 266.9
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "director": "Todd Phillips",
+        "genre": ["Crime", "Drama"],
+        "box_office": 1074.3
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "director": "Anthony Russo, Joe Russo",
+        "genre": ["Action", "Adventure"],
+        "box_office": 2797.8
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "director": "Damien Chazelle",
+        "genre": ["Drama", "Musical"],
+        "box_office": 446.1
+    },
+    {
+        "title": "The Revenant",
+        "year": 2015,
+        "director": "Alejandro González Iñárritu",
+        "genre": ["Adventure", "Drama"],
+        "box_office": 533.0
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "director": "George Miller",
+        "genre": ["Action", "Adventure"],
+        "box_office": 375.4
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Adventure"],
+        "box_office": 829.9
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "genre": ["Action", "Adventure"],
+        "box_office": 2790.4
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Crime"],
+        "box_office": 1004.9
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "director": "Joel Coen, Ethan Coen",
+        "genre": ["Crime", "Drama"],
+        "box_office": 171.6
+    }
+]
